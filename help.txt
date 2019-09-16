@@ -1,0 +1,20 @@
+set PATH=%PATH%;C:\Users\User\AppData\Roaming\npm;
+
+npm install -g browser-sync
+
+browser-sync start --server "./dist" --files "."
+
+
+
+https://github.com/tsayen/dom-to-image
+npm install dom-to-image
+
+
+$ npm install axios
+
+
+
+
+npm inst
+
+npm install --save knex mysql restify
